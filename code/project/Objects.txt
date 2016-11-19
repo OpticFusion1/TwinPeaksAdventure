@@ -1,0 +1,19 @@
+0 1 6 1 Pistol
+It has no label on it, and you have no way to tell whose it is.
+END
+
+1 0 3 1 Jack of Hearts
+This card is in very good shape. Resembles the sign for One Eyed Jack's.
+END
+
+2 4 -1 0 Clipping of the 'L' letter from a newspaper.
+It looks like there is blood on it.
+END
+
+3 4 -1 0 Eyepatch
+It is on the ground in front of Big Ed's Gas Farm.
+END
+
+4 4 -1 0 Armpatch with the stitching of an Evergreen tree and a sword vertically in the center
+It was found beside the Twin Peaks Sheriff's Department. 
+END

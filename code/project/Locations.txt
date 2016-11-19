@@ -1,0 +1,39 @@
+// Location 1
+
+You are at the Double R Diner.
+
+// Location 2
+
+You are at the Big Ed's Gas Farm.
+
+// Location 3
+
+You are at the White Lodge.
+
+// Location 4 
+
+You are at the One Eyed Jack's.
+
+// Location 5
+
+You are at the Packard Sawmill.
+
+// Location 6
+
+You are at Twin Peaks Sheriff's Department.
+
+// Location 7
+
+You are at the Palmers' Resident.
+
+// Location 8
+
+You are at the Great Northern Hotel.
+
+// Location 9
+
+You are at the Black Lodge.
+
+// Location 10
+
+You have fallen into Agent Dale Cooper's Dream.

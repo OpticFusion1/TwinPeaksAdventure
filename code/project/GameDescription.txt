@@ -1,0 +1,12 @@
+Aaron O'Brien	
+CSC 2232 Spring 2015
+FSC Adventure Game
+
+Theme of the game: Murder Mystery inspired by the television show Twin Peaks.
+
+Challenges for the Player: 
+1: Getting lost. If other player is more than 3 rooms away, deduct a point.
+2: Getting murdered. Game ends.
+3: Going insane. Game can continue, losing a point when each movement or game can end via suicide.
+
+The Ultimate Goal of the Game: Find the Laura Palmer's killer. If 1 room away, award 2 points. Win by both the player and killer are in the same room.
